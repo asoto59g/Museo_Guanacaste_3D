@@ -1,6 +1,6 @@
 # Visor 3D Interactivo — Museo Guanacaste
 
-https://asoto59g.github.io/Museo_Guanacaste_3D/
+https://museo3d.netlify.app/
 
 Este proyecto consiste en una aplicación web interactiva desarrollada para visualizar de manera óptima y fluida un modelo tridimensional pesado generado mediante herramientas de fotogrametría (OpenDroneMap).
 
